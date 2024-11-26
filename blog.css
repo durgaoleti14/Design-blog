@@ -1,0 +1,54 @@
+nav {
+    list-style-type: none;
+    background-color:black;
+     gap:180px; 
+    display: flex;
+    color: white;
+    padding-left: 50px;
+}
+nav h3{
+text-align: center;
+}
+
+.head-row{
+    display:flex;
+    background-color: black;
+    justify-content: space-around;
+}
+.birds{
+    background-color: rgb(43, 40, 40);
+    color:white;
+}
+.words{
+    background-color: rgb(43, 40, 40);
+    padding-left: 100px;
+    display: flex;
+}
+.word{
+    display: flex;
+}
+.website{
+    margin-left: 90px;
+    width: 800px;
+    height: 80%;
+}
+.latest{
+    width: 400px;
+    margin-right: 60px;
+    height: 400px;
+}
+footer{
+    background-color: black;
+    color: white;
+    height:200px;
+}
+footer h3{
+    padding-left: 20px;
+
+}
+.some{
+    display:inline-flex;
+    gap:150px;
+}
+
+
